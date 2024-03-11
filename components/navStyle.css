@@ -1,0 +1,4 @@
+.navbar-nav .nav-link.active {
+  border-bottom: 2px solid rebeccapurple;
+  color: black;
+}
